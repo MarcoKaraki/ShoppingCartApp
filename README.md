@@ -2,7 +2,7 @@
 Sample shopping cart app made to be used in conjunction with the angular front-end application, which is a separate project.
 
 This project supports 4 main functions:
- - Get all products from a catalog
+ - Get all products from a catalog (the catalog is loaded with sample data upon startup)
  - Add product of specified quantity to a user's cart
  - Get a list of all products in a user's shopping cart
  - Delete a product from a user's shopping cart
