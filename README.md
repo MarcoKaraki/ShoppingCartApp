@@ -14,8 +14,9 @@ spring.datasource.username=test
 spring.datasource.password=test
 ```
 
-As long as you have mysql running and accepting those credentials, this project can be built using maven by navigating to the root directory and running the following command:
+As long as you have mysql running and accepting those credentials, this project can be built using maven by navigating to the root directory and running the following commands:
 ```
+mvn install
 mvn package
 ```
     
